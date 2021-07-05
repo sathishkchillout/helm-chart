@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/sathishkchillout/helm-chart/releases/download/docker-compose-0.0.1/docker-compose-0.0.1.tgz
     version: 0.0.1
+  obbaa:
+  - apiVersion: v1
+    appVersion: R4.0.0
+    created: "2021-07-05T16:28:34.584909149+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 2005e5a865a5269ed2ff9d12c62ce7890ffdb03a10da4c916dc2dd6b4ee7461b
+    name: obbaa
+    urls:
+    - https://github.com/sathishkchillout/volt_baa/releases/download/obbaa-0.1.0/obbaa-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-05-06T15:24:43.219900486+05:30"
